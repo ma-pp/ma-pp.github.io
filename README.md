@@ -2,6 +2,8 @@
 
 ## Hello Developers! Contribute to Muslim App!
 
+Translate this page? Push your translation!
+
 All you need to know to start push will be available soon!
 
 Beautify this Github Page? Start forking!
