@@ -9,6 +9,10 @@ Before you start, please take a look at these repos:
  2. [**iOS**](https://github.com/ma-pp/ma2018_ios)
  3. [**Catatan Muslim - Backend**](https://github.com/ma-pp/ma2018note_rails)
  
+ 
+Touch developers at:
+ 1. [**Slack Workspace**](https://muslimapp.slack.com)
+ 
 
 
 Stay tuned and lifelong coder!
