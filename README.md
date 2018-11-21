@@ -6,12 +6,10 @@ All you need to know to start push will be available soon!
 
 Beautify this Github Page? Start forking!
 
-Before you start, please take a look at these repos:
- 1. [**Github Page**](https://github.com/ma-pp/ma-pp.github.io)
- 2. [**iOS**](https://github.com/ma-pp/ma2018_ios)
- 3. [**Android**](https://github.com/ma-pp/ma2018_android)
- 3. [**Catatan Muslim - Backend**](https://github.com/ma-pp/ma2018note_rails)
- 
+Technology currently using:
+1. Ruby on Rails
+2. Swift iOS
+3. Java Android
 
 Touch developers at:
  1. [**Slack Workspace**](https://muslimapp.slack.com)
@@ -36,15 +34,13 @@ All above application is set to match these following requirements as possible:
 3. Be able to be triggered from Muslim App Home Launcher
 
 
-## Apps
+## Apps Repository
 
 ### Catatan Muslim
-**iOS** _Doing_
-**Android** _To Do_
-**Web** _Backlog_
-**Backend** _To Do_
-
-
+1. [**iOS**](https://github.com/ma-pp/ma2018_ios)
+2. [**Android**](https://github.com/ma-pp/ma2018_android)
+3. **Web** _Backlog_
+4. [**Backend**](https://github.com/ma-pp/ma2018note_rails)
 
 
 Stay tuned and lifelong coder!
