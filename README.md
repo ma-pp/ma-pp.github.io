@@ -31,9 +31,12 @@ Here is some application that set to be available for the first production:
 5. Amalan Yaumiyah (Daily Prayer)
 
 All above application is set to match these following requirements as possible:
-1. Deploy as Muslim App sub application
+1. Deploy as Muslim App sub application 
 2. Deploy as single application
 3. Be able to be triggered from Muslim App Home Launcher
+
+Project Kakak Asuh (Foster Brother) is companion for Muslim App.
+[**KAKAK ASUH**](https://github.com/ma-pp/ma2018kakakasuh_rn)
 
 
 ## Apps Repository
