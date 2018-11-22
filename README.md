@@ -1,5 +1,7 @@
 # Muslim App
 
+![LOGO](https://avatars2.githubusercontent.com/u/45206556?s=400&u=0015f0c31039615a7a5fce083059edaed8220d1c&v=4)
+
 ## Hello Developers! Contribute to Muslim App!
 
 Translate this page? Push your translation!
