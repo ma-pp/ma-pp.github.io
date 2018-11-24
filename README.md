@@ -1,6 +1,6 @@
 # Muslim App
 
-![LOGO](https://avatars2.githubusercontent.com/u/45206556?s=400&u=0015f0c31039615a7a5fce083059edaed8220d1c&v=4)
+![LOGO](https://avatars1.githubusercontent.com/u/45206556?s=400&u=66a258d727c291507c0c7213e483306dbc2919b1&v=4)
 
 ## Hello Developers! Contribute to Muslim App!
 
