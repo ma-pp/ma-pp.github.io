@@ -1,6 +1,9 @@
 # Muslim App
 
-![LOGO](https://avatars1.githubusercontent.com/u/45206556?s=400&u=66a258d727c291507c0c7213e483306dbc2919b1&v=4)
+<img src="https://avatars1.githubusercontent.com/u/45206556?s=400&u=66a258d727c291507c0c7213e483306dbc2919b1&v=4" 
+     alt="Muslim App Logo" 
+     height="100" 
+     width="100">
 
 ## Hello Developers! Contribute to Muslim App!
 
