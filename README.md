@@ -17,6 +17,7 @@ Technology currently using:
 1. Ruby on Rails
 2. Swift iOS
 3. Java Android
+4. HTML, CSS
 
 Touch developers at:
  1. [**Slack Workspace**](https://muslimapp.slack.com)
@@ -45,18 +46,19 @@ Project Kakak Asuh (Foster Brother) is companion for Muslim App.
 
 
 ## Apps Repository
-
+### Muslim App
+<br/>
 <img src="https://i.ibb.co/F3jS6K3/master.png" 
      alt="Muslim App UI">
-<img src="https://i.ibb.co/cN7n5T1/master.png" 
-     alt="Muslim App UI">
-
-### Catatan Muslim
+     
+### Muslim Note
 1. [**iOS**](https://github.com/ma-pp/ma2018_ios)
 2. [**Android**](https://github.com/ma-pp/ma2018_android)
 3. **Web** _Backlog_
 4. [**Backend**](https://github.com/ma-pp/ma2018note_rails)
-5. **UI & UX**
+5. [**UI & UX** Figma](https://www.figma.com/file/QMtFwOMcZ4mEBRHs3oT9FWUe/muslim-apps-android)
 <br/>
+<img src="https://i.ibb.co/cN7n5T1/master.png" 
+     alt="Muslim App UI">
 
 Stay tuned and lifelong coder!
