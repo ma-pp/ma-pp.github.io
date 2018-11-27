@@ -48,7 +48,7 @@ Project Kakak Asuh (Foster Brother) is companion for Muslim App.
 ## Apps Repository
 ### Muslim App
 <br/>
-<img src="https://i.ibb.co/F3jS6K3/master.png" 
+<img src="https://i.ibb.co/5Mn8sLT/master.png" 
      alt="Muslim App UI">
      
 ### Muslim Note
