@@ -14,9 +14,9 @@ All you need to know to start push will be available soon!
 Beautify this Github Page? Start forking!
 
 Technology currently using:
-1. Ruby on Rails
+1. Flask Python
 2. Swift iOS
-3. Java Android
+3. Android Java
 4. HTML, CSS
 
 Touch developers at:
