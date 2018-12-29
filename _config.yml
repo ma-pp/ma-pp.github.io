@@ -1,1 +1,19 @@
-theme: jekyll-theme-cayman
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Muslim App
+email: blog@minimal.com
+description: "Muslim App is designed to be an Umbrella Project for it sub project. Consider to design your platform implementation to be as modular as possible. Some implementation details may need to be private, so use your avalaible technology stack tools to keep it safe and sound."
+baseurl: ""
+url: ""
+twitter_username: minimal_twitter
+github_username: https://github.com/ma-pp
+
+# Build settings
+markdown: kramdown
+permalink: /:title/

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Muslim App</title>
+    <description>Muslim App is designed to be an Umbrella Project for it sub project. Consider to design your platform implementation to be as modular as possible. Some implementation details may need to be private, so use your avalaible technology stack tools to keep it safe and sound.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 30 Nov 2018 10:03:14 +0700</pubDate>
+    <lastBuildDate>Fri, 30 Nov 2018 10:03:14 +0700</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Hello Developers! Contribute to Muslim App!</title>
+        <description>&lt;h2 id=&quot;hello-developers-contribute-to-muslim-app&quot;&gt;Hello Developers! Contribute to Muslim App!&lt;/h2&gt;
+
+&lt;p&gt;Translate this page? Push your translation!&lt;/p&gt;
+
+&lt;p&gt;All you need to know to start push will be available soon!&lt;/p&gt;
+
+&lt;p&gt;Beautify this Github Page? Start forking!&lt;/p&gt;
+
+&lt;p&gt;Technology currently using:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Flask Python&lt;/li&gt;
+  &lt;li&gt;Swift iOS&lt;/li&gt;
+  &lt;li&gt;Android Java&lt;/li&gt;
+  &lt;li&gt;HTML, CSS&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Touch developers at:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://muslimapp.slack.com&quot;&gt;&lt;strong&gt;Slack Workspace&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Thu, 22 Nov 2018 22:28:03 +0700</pubDate>
+        <link>http://localhost:4000/hello-developers/</link>
+        <guid isPermaLink="true">http://localhost:4000/hello-developers/</guid>
+        
+        
+        <category>start</category>
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>What is Muslim App?</title>
+        <description>&lt;p&gt;Muslim App is designed to be an Umbrella Project for it sub project. Consider to design your platform implementation to be as modular as possible. Some implementation details may need to be private, so use your avalaible technology stack tools to keep it safe and sound.&lt;/p&gt;
+
+&lt;p&gt;Current goal is to develop Muslim App to its early production.&lt;/p&gt;
+
+&lt;p&gt;Here is some application that set to be available for the first production:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Catatan Muslim (Muslim Note)&lt;/li&gt;
+  &lt;li&gt;Agenda Muslim (Muslim Agenda)&lt;/li&gt;
+  &lt;li&gt;Lowongan Kerja Muslim (Muslim Job)&lt;/li&gt;
+  &lt;li&gt;Jadwal Shalat (Pray Schedule)&lt;/li&gt;
+  &lt;li&gt;Amalan Yaumiyah (Daily Prayer)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;All above application is set to match these following requirements as possible:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Deploy as Muslim App sub application&lt;/li&gt;
+  &lt;li&gt;Deploy as single application&lt;/li&gt;
+  &lt;li&gt;Be able to be triggered from Muslim App Home Launcher&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Project Kakak Asuh (Foster Brother) is companion for Muslim App.
+&lt;a href=&quot;https://github.com/ma-pp/ma2018kakakasuh_rn&quot;&gt;&lt;strong&gt;KAKAK ASUH&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 22 Nov 2018 19:46:41 +0700</pubDate>
+        <link>http://localhost:4000/what-is-muslim-app/</link>
+        <guid isPermaLink="true">http://localhost:4000/what-is-muslim-app/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
