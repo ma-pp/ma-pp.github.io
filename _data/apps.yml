@@ -1,0 +1,8 @@
+- name: Muslim App
+  link: /apps/app.html
+- name: Catatan Muslim
+  link: /apps/note.html
+- name: Agenda Muslim
+  link: /apps/agenda.html
+- name: Lowongan Kerja Muslim
+  link: /apps/job.html
