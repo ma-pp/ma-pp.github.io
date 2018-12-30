@@ -8,6 +8,7 @@ title: Apps
 ### Muslim App
 <br/>
 <img src="https://i.ibb.co/5Mn8sLT/master.png" 
+     class="image-fit"
      alt="Muslim App UI">
      
 ### Muslim Note
@@ -20,6 +21,7 @@ title: Apps
      * [**Interface Prototype**](https://www.figma.com/proto/QMtFwOMcZ4mEBRHs3oT9FWUe/muslim-apps-android?node-id=0%3A1&scaling=contain&redirected=1)
 <br/>
 <img src="https://i.ibb.co/cN7n5T1/master.png" 
+     class="image-fit"
      alt="Catatan Muslim App UI">
 
 Stay tuned and lifelong coder!

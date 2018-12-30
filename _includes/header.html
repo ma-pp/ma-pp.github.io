@@ -2,13 +2,7 @@
     <nav class="nav-extended">
         {% include navigation_bar.html %}
         {% if page.url == "/apps.html" %}
-        <div class="nav-content">
-            <ul class="tabs tabs-transparent">
-                {% for app in site.data.apps %}
-                <li class="tab"><a {% if page.url==item.link %}class="active" {% endif %} href="{{ app.link }}">{{ app.name }}</a></li>
-                {% endfor %}
-            </ul>
-        </div>
+        {% include navigation_content.html %}
         {% endif %}
     </nav>
 </div>

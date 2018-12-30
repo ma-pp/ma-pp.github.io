@@ -43,3 +43,4 @@ plugins:
 #   - vendor/ruby/
 
 include: ['_pages']
+exclude: ['README.md', 'README.en.md', 'guides']
