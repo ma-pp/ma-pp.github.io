@@ -1,10 +1,29 @@
-<div class="nav-wrapper">
-    <a href="/" class="brand-logo logo">Muslim App</a>
-    <ul class="right hide-on-med-and-down">
-        {% for item in site.data.navigation %}
-        <li {% if page.url==item.link %}class="active" {% endif %}>
-            <a href="{{ item.link }}">{{ item.name }}</a>
-        </li>
-        {% endfor %}
-    </ul>
+<div class="navbar-fixed">
+    <nav class="nav-extended">
+        <div class="nav-wrapper">
+            <a href="/" class="brand-logo logo">Muslim App</a>
+            <ul class="right hide-on-med-and-down">
+                {% for item in site.data.navigation %}
+                <li {% if page.url==item.link %}class="active" {% endif %}>
+                    <a href="{{ item.link }}">{{ item.name }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div id="dropDownIfExist">
+            {% if page.url == '/apps.html' %}
+            <div class="logo dropdown">
+                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown"
+                    aria-haspopup="true" aria-expanded="false">
+                    {{ site.data.apps[0].name }}
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    {% for app in site.data.apps %}
+                    <a class="dropdown-item" href={{ app.link }}>{{ app.name }}</a>
+                    {% endfor %}
+                </div>
+            </div>
+            {% endif %}
+        </div>
+    </nav>
 </div>

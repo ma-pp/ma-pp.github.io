@@ -1,3 +1,13 @@
+.main-bg {
+    .first {
+        background-image: url("https://images.pexels.com/photos/207231/pexels-photo-207231.jpeg?auto=compress");
+    }
+    .second {
+        // background-color: #D2F5D2;
+        background-color: black;
+    }
+}
+
 body {
-    background-image: url("https://images.pexels.com/photos/207231/pexels-photo-207231.jpeg?auto=compress")
+    background-color: #D2F5D2;
 }

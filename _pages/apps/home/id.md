@@ -32,6 +32,7 @@ Dibawah ini adalah beberapa aplikasi yang sedang dikembangkan maupun masih dalam
      * [**Design Styleguideline**](https://www.figma.com/file/QMtFwOMcZ4mEBRHs3oT9FWUe/muslim-apps-android) 
      * [**Interface Prototype**](https://www.figma.com/proto/QMtFwOMcZ4mEBRHs3oT9FWUe/muslim-apps-android?node-id=0%3A1&scaling=contain&redirected=1)
 <br/>
+
 <img src="https://i.ibb.co/cN7n5T1/master.png" 
      class="image-fit border border-primary"
      alt="Catatan Muslim App UI">
